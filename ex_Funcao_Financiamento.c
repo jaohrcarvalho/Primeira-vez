@@ -23,6 +23,7 @@ int main () {
     scanf("%f", &e);
     printf("Quantas parcelas? ");
     scanf("%f", &f);
+    printf("show de bola");
 
     emprestimo (d, e, f);
 
